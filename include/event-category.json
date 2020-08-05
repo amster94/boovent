@@ -1,0 +1,17 @@
+{
+  "Cultural": "Exhibitions,Museum events,Art and Culture",
+  "Food_and_Drinks": "Vegetables Fest,Beer Fest,Food fest,Wine fest,Agricultural Fest",
+  "Political": "Rallies,Debates,Conventions,Conferences,Elections",
+  "Health": "Yoga,Marathons,Race,Anti Alcohol,Fitness,Gym",
+  "Business": "Fundraisers,Meetups,Conferences,Talk Shows,Home and Lifestyle",
+  "Hobbies": "Art and Crafts,Music,Dance,Sports,Singing",
+  "Music": "Concerts,Jazz,Competitions,Live performance",
+  "Entertainment": "Festivals,Standup Shows,Live Talk Shows,Air Show",
+  "Art": "Performances,Exhibitions,Conferences",
+  "Science_and_Technology": "Studies,Exhibitions,Lectures,Awards,History",
+  "Religious": "Temple,Festivals",
+  "Holiday": "Tours,Packages Others",
+  "Sports_and_Adventure": "Trekking,Camping,Sky Gazing,Cycling,Hiking,Sky Diving,Swimming,cricket,football",
+  "College": "Cultural Fest,IIT Fest,Tech Fest,Concerts,Educational Fair",
+  "Education_and_Family": "Science,Astronomy,Education Fair"
+}
